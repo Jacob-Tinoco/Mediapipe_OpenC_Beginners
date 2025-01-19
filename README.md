@@ -36,7 +36,7 @@ Este proyecto es una aplicación que utiliza la cámara web para capturar imáge
 2. **Clonar el Repositorio**: Clona este repositorio en tu máquina local.
     ```bash
     git clone https://github.com/Jacob-Tinoco/Mediapipe_OpenC_Beginners.git
-    cd "nombre de como del archivo descargado bro""
+    cd "nombre del archivo descargado bro""
     ```
 
 3. **Usar la Aplicación**: La aplicación capturará video desde tu cámara web, detectará manos y reconocerá gestos. Usa la opción `--debug` para ver información adicional en la consola:
