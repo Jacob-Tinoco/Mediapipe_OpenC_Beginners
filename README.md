@@ -41,7 +41,7 @@ Este proyecto es una aplicación que utiliza la cámara web para capturar imáge
 
 3. **Usar la Aplicación**: La aplicación capturará video desde tu cámara web, detectará manos y reconocerá gestos. Usa la opción `--debug` para ver información adicional en la consola:
     ```bash
-    python requests.py --debug
+    pip install -r requirements.txt
     ```
 
 ## Lista de Herramientas Utilizadas
