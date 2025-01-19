@@ -40,8 +40,8 @@ Opción:
     cd "nombre del archivo descargado bro""
     ```
     Con esta opción clonas el repositorio y puedes ejecutar en tu maquina local la "Opcion 3".
-   Opción 3:
-3. **Usar la Aplicación**: La aplicación capturará video desde tu cámara web, detectará manos y reconocerá gestos. Usa la opción `--debug` para ver información adicional en la consola:
+Opción:
+4. **Usar la Aplicación**: La aplicación capturará video desde tu cámara web, detectará manos y reconocerá gestos. Usa la opción `--debug` para ver información adicional en la consola:
     ```bash
     pip install -r requirements.txt
     ```
