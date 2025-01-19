@@ -27,22 +27,25 @@ Este proyecto es una aplicación que utiliza la cámara web para capturar imáge
 **Intermedio**: Este proyecto requiere conocimientos básicos de Python y bibliotecas como OpenCV y MediaPipe.
 
 ## Pasos para Usarlo Correctamente
-
+Opción:
 1. **Instalar Dependencias**: Asegúrate de tener Python instalado y luego instala las bibliotecas necesarias utilizando pip:
     ```bash
     pip install opencv-python mediapipe numpy
     ```
-
+    Con este paso instalas las dependencias necesarias en tu computadora de manera manual.
+Opción:
 2. **Clonar el Repositorio**: Clona este repositorio en tu máquina local.
     ```bash
     git clone https://github.com/Jacob-Tinoco/Mediapipe_OpenC_Beginners.git
     cd "nombre del archivo descargado bro""
     ```
-
+    Con esta opción clonas el repositorio y puedes ejecutar en tu maquina local la "Opcion 3".
+   Opción 3:
 3. **Usar la Aplicación**: La aplicación capturará video desde tu cámara web, detectará manos y reconocerá gestos. Usa la opción `--debug` para ver información adicional en la consola:
     ```bash
     pip install -r requirements.txt
     ```
+    Con esta opción una vex que tengas los archivos en local puedes ejecutar el comando en la terminal del proyecto para instalar las dependencias necesarias.
 
 ## Lista de Herramientas Utilizadas
 - **OpenCV**: Para la captura y procesamiento de imágenes.
